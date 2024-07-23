@@ -1,0 +1,75 @@
+.massage {
+    padding: 5px;
+    width: 24px;
+    height: 24px;
+    border-radius: 8px;
+    background: #FF0043;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.div-massage {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.personal-item:nth-child(1) {
+    position: absolute;
+    top: 297px;
+    left: -254px;
+}
+
+.personal-item:nth-child(2) {
+    position: absolute;
+    top: 398px;
+    left: -221px;
+}
+
+.personal-item:nth-child(3) {
+    position: absolute;
+    top: 497px;
+    left: -188px;
+}
+
+.personal-div_2 {
+    margin-left: 217px;
+    position: relative;
+}
+
+.personal-title {
+    width: 466px;
+    height: 100px;
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+.personal-subtitle {
+    width: 466px;
+    height: 196px;
+
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    opacity: 0.8;
+}
+
+.span {
+    top: 274px;
+    left: 0px;
+    width: 466px;
+    position: absolute;
+}

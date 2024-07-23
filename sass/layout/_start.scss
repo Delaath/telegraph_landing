@@ -1,0 +1,51 @@
+.start-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 1139px;
+    height: 346px;
+    border-radius: 25px;
+    background-color: #00194A;
+    margin-bottom: 80px;
+}
+
+.start-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+.start-subtitle {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    margin-bottom: 50px;
+}
+
+.start-button {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 30px;
+    border: none;
+    background-color: #FF0043;
+    width: 275px;
+    height: 60px;
+}
+
+.start-button:active {
+    background-color: #a8002d;
+}
